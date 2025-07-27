@@ -18,6 +18,5 @@ The dashboard provides insights into sample sales data including:
 - `DAY_1.pbix` – Main dashboard file
 - `Copy of Power BI Dataset.xlsx` – Source dataset used in the dashboard
 
-## 🙋‍♀️ Author
-**Sahithi Sudabattula**  
-LinkedIn: www.linkedin.com/in/sahithisudabattula
+## 👩‍💻 Author
+[Sahithi Sudabattula](https://www.linkedin.com/in/sahithisudabattula/)
